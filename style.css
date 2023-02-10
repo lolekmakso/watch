@@ -191,6 +191,7 @@ h1 {
 .button-buy:hover {
   color: #000;
   background-color: #fff;
+  border: 1px solid #000;
 }
 
 .model-son22 a:hover {
